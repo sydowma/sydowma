@@ -2,12 +2,6 @@
 
 I'm shenmenxiake, a developer focused on trading systems, AI/Code tools, and Java/Python development.
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sydowma&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sydowma&layout=compact)
-
 ## Recent Projects
 
 | Project | Description | Stars | Language |
@@ -32,12 +26,6 @@ I'm shenmenxiake, a developer focused on trading systems, AI/Code tools, and Jav
 | [trading-strategy](https://github.com/sydowma/trading-strategy) | Python framework for quantitative financial analysis | 0 | Python |
 | [website](https://github.com/sydowma/website) | Website project | 0 | HTML |
 | [ragCodeKnowledge](https://github.com/sydowma/ragCodeKnowledge) | RAG code knowledge project | 0 | Python |
-
-## Stats
-
-- Public Repos: 177
-- Followers: 245
-- Following: 757
 
 ## Contact
 
